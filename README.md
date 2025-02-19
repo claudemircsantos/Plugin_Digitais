@@ -1,4 +1,4 @@
-**Plugin para Análise de Impressões Digitais no ImageJ**
+# 🔍 Plugin para Análise de Impressões Digitais no ImageJ
 
 Trata-se de um plugin gratuito para o ImageJ, desenvolvido para o tratamento e aprimoramento de impressões digitais. Baseado na versão 2.2 do SourceAfis, ele oferece funcionalidades voltadas para a análise forense, permitindo a aplicação de diversos filtros e técnicas de processamento de imagem para melhorar a qualidade e a visibilidade das marcas papilares. Seu uso é indicado tanto para profissionais e pesquisadores da área forense quanto para aqueles que desejam compreender melhor o funcionamento de um sistema AFIS (Automated Fingerprint Identification System), explorando os fundamentos da análise e comparação de impressões digitais.
 
