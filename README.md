@@ -17,7 +17,8 @@ Ao executar o plugin, a ferramenta disponibiliza as seguintes opções dentro do
 
 Menu - Digitais
 | --- |
-| → Compara Digitais - Realiza a comparação entre duas impressões digitais ativas na tela. |
+| → Compara Digitais - Realiza a comparação entre duas impressões digitais ativas na tela - SourceAFIS 2.2. |
+| → Compara Digitais NIST SourceAFIS - Realiza a comparação entre duas impressões digitais ativas na tela, se utilizando de dois processos NIST & SourceAFIS. |
 | → Extrai Minúcias – Identifica e extrai pontos característicos (minúcias) das digitais, como bifurcações e terminações. |
 | → Converte 500 DPI – Ajusta a resolução das imagens para 500 DPI, garantindo compatibilidade com padrões biométricos. O processo utiliza referências inseridas na imagem, exigindo que o usuário, por meio da ferramenta "Straight Line", selecione um segmento de 1 cm para calibração adequada. |
 | → Pesquisa Digitais – Permite, a partir de uma impressão digital ativa na tela, realizar a busca por impressões similares em um diretório selecionado pelo usuário (1:N). |
